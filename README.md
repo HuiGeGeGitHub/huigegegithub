@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 ![HuiGeGeGitHub's github stats](https://github-readme-stats.vercel.app/api?username=HuiGeGeGitHub&theme=radical)
 <div>
-![HuiGeGeGitHub's github analyse](https://github-readme-stats.vercel.app/api/top-langs/?username=HuiGeGeGitHub&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuiGeGeGitHub&theme=radical"/>
 </div>
 
 <!--
